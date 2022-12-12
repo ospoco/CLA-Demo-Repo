@@ -1,4 +1,4 @@
-# OSPO-Demo-Repo
+# OSPO-Demo-Repo Trove Classifiers
 
     name="OSPO-Demo-Repo"
     description="Example repository showing the use of Git to store OSPO data"
