@@ -1,8 +1,8 @@
-This organization does not use a CLA. Instead they require that all contributions be provided under the Apache License, v2.
+This organization uses a CLA. They identify individual users that have signed the CLA by Github username.
 
-Approval to license contributions was provided by:
+All contributions are required to be under the Apache License, v2. Contributions are then relicensed to the Python License.
 
-Carolyn Lester, VP of software development, 2022-06-28
+The CLA has been saved as CLA.pdf.
 
-Add "Copyright DemoCorp, contributed under Apache-2.0" to the top of all files in a contribution.
+Add "Copyright DemoCorp. Contributed to Python" to the top of all files in a contribution.
 
